@@ -2,4 +2,6 @@ hello tortoiseGit
 change file in branch
 stash change
 change this file in branch2
+！！！！！！！！！！！！！！！！！！！！！！！！
+ prepare to study fetch
 
